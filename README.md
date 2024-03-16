@@ -1,4 +1,4 @@
-# FString Library
+# fstring.h
 [![GitHub](https://img.shields.io/github/license/farhanaliofficial/fstring.h)](https://github.com/farhanaliofficial/fstring.h/blob/main/LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/farhanaliofficial/fstring.h)](https://github.com/farhanaliofficial/fstring.h/releases)
 [![GitHub stars](https://img.shields.io/github/stars/farhanaliofficial/fstring.h.svg)](https://github.com/farhanaliofficial/fstring.h/stargazers)
